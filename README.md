@@ -1,7 +1,6 @@
 <h1 align="center">Hi, I'm Manisha! 👋</h1>
 
 🚀 Passionate about **Data Structures & Algorithms**, **System Design**, and **Problem-Solving**  
-🎯 Preparing for **Google | FAANG Interviews**  
 👩‍💻 Ex-Freelancer | Worked with **Korn Ferry**, **CoachFirst**, **Pill Doctor UK**  
 📚 Currently refining **Graph**, **Tree**, and **Dynamic Programming** techniques  
 💡 Exploring **Generative AI**, **Cloud Computing**, and **Backend Development**  
